@@ -8,7 +8,7 @@ export default function SEO(): JSX.Element {
       <Meta name="viewport" content="width=device-width, initial-scale=1" />
       <Meta name="theme-color" content="#1c1b22" />
 
-      <Title>Velocity</Title>
+      <Title>Beluga-Whale</Title>
       <Meta property="og:title" content="Velocity" />
 
       <Link rel="icon" href="/favicon.ico" />
