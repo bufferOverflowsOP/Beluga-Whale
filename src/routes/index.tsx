@@ -54,7 +54,7 @@ export default function Home(): JSX.Element {
 
   return (
     <main class="flex h-full flex-col overflow-hidden">
-      <Title>Velocity</Title>
+      <Title>Browser</Title>
       <div id="navigator-toolbox-background">
         <div id="navigator-toolbox">
           <Tabs />
