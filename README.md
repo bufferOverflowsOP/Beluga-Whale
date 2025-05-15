@@ -2,9 +2,9 @@
 
 <img width="150px" src="https://raw.githubusercontent.com/cohenerickson/Velocity/main/public/icons/512.png">
 
-# Velocity
+# Beluga-Whale
 
-Velocity is a fully featured tabbed proxy with a **seamless browsing experience**.
+Beluga-Whale is a fully featured tabbed proxy with a **seamless browsing experience**.
 
 [Features](#features) •
 [Deployment](#deployment) •
@@ -52,13 +52,13 @@ Velocity implements standard keyboard shortcuts that web browsers use in order t
 
 ## API
 
-Velocity exposes certain APIs in order to allow developers to easily incorperate Velocity into their own projects. To learn more, check out the [API Docs](/docs/API.md).
+Beluga-Whale exposes certain APIs in order to allow developers to easily incorperate Velocity into their own projects. To learn more, check out the [API Docs](/docs/API.md).
 
 ## Deployment
 
 ### Quick Deployment Options
 
-Velocity currently does not officially support any quick deployment platforms. Any issues regarding deployment on platforms such as Replit, Render, Vercel, etc. will be closed.
+Beluga-Whale currently does not officially support any quick deployment platforms. Any issues regarding deployment on platforms such as Replit, Render, Vercel, etc. will be closed.
 
 ### Normal Deployment (Recommended)
 
@@ -74,7 +74,7 @@ npm start
 
 ## Contributing
 
-Velocity is still in it's early stages but if it gains enough interest among the community there are quite a few other features that I would like to implement, listed below are a few of these.
+Beluga-Whale is still in it's early stages but if it gains enough interest among the community there are quite a few other features that I would like to implement, listed below are a few of these.
 
 - Bookmarklet support
 - Extension support
